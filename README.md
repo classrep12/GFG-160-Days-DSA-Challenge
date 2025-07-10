@@ -34,11 +34,9 @@ This repository contains my daily solutions to Data Structures and Algorithms pr
 
 | Day | Status | Problems Solved |
 |-----|--------|------------------|
-| 1   | ✅     | [Problem Name](link) |
-| 2   | ✅     | [Problem Name](link) |
-| ... | ...    | ...                |
+| 1   | ✅     |  |
+| 2   | ✅     |  |
 
-> ✅ = Completed, ❌ = Pending
 
 
 
