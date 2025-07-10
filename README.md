@@ -1,0 +1,45 @@
+# 💻 GFG 160 Days DSA Challenge
+
+Welcome to my journey through the **GeeksforGeeks 160 Days DSA Challenge**! 🚀
+
+This repository contains my daily solutions to Data Structures and Algorithms problems, as I commit to sharpening my problem-solving skills and staying consistent.
+
+---
+
+### 📌 About the Challenge
+
+- ⏳ **Duration:** 160 Days
+- 📅 **Start Date:** [Enter your start date]
+- 🧠 **Goal:** Practice and improve core DSA concepts daily
+- 📝 **Platform:** [GeeksforGeeks DSA Challenge](https://www.geeksforgeeks.org)
+
+---
+
+---
+
+### ✅ Topics Covered
+
+- Arrays & Strings
+- Searching & Sorting
+- Linked Lists
+- Stacks & Queues
+- Trees & Graphs
+- Dynamic Programming
+- Greedy Algorithms
+- Backtracking, and more!
+
+---
+
+### 📈 Progress Tracker
+
+| Day | Status | Problems Solved |
+|-----|--------|------------------|
+| 1   | ✅     | [Problem Name](link) |
+| 2   | ✅     | [Problem Name](link) |
+| ... | ...    | ...                |
+
+> ✅ = Completed, ❌ = Pending
+
+
+
+
