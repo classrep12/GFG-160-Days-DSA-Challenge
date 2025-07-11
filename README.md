@@ -35,7 +35,7 @@ This repository contains my daily solutions to Data Structures and Algorithms pr
 | Day | Status | Problems Solved |
 |-----|--------|------------------|
 | 1   | ✅     | Second Largest |
-| 2   | ✅     |  |
+| 2   | ✅     | Move all zeroes to end |
 
 
 
