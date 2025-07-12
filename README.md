@@ -9,7 +9,7 @@ This repository contains my daily solutions to Data Structures and Algorithms pr
 ### 📌 About the Challenge
 
 - ⏳ **Duration:** 160 Days
-- 📅 **Start Date:** 11-07-2025
+- 📅 **Start Date:** 10-07-2025
 - 🧠 **Goal:** Practice and improve core DSA concepts daily
 - 📝 **Platform:** [GeeksforGeeks DSA Challenge](https://www.geeksforgeeks.org)
 
@@ -36,6 +36,7 @@ This repository contains my daily solutions to Data Structures and Algorithms pr
 |-----|--------|------------------|
 | 1   | ✅     | Second Largest |
 | 2   | ✅     | Move all zeroes to end |
+| 3   | ✅     | Reverse An Array |
 
 
 
