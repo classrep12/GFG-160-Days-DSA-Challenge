@@ -37,6 +37,7 @@ This repository contains my daily solutions to Data Structures and Algorithms pr
 | 1   | ✅     | Second Largest |
 | 2   | ✅     | Move all zeroes to end |
 | 3   | ✅     | Reverse An Array |
+| 4  | ✅     | Rotate An Array |
 
 
 
