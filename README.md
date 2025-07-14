@@ -38,6 +38,7 @@ This repository contains my daily solutions to Data Structures and Algorithms pr
 | 2   | ✅     | Move all zeroes to end |
 | 3   | ✅     | Reverse An Array |
 | 4  | ✅     | Rotate An Array |
+| 5  | ✅     | Next Permutation |
 
 
 
