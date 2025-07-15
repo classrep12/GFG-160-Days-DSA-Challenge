@@ -39,6 +39,7 @@ This repository contains my daily solutions to Data Structures and Algorithms pr
 | 3   | ✅     | Reverse An Array |
 | 4  | ✅     | Rotate An Array |
 | 5  | ✅     | Next Permutation |
+| 6 | ✅     | Majority Element 2 |
 
 
 
