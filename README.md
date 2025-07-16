@@ -40,6 +40,7 @@ This repository contains my daily solutions to Data Structures and Algorithms pr
 | 4  | ✅     | Rotate An Array |
 | 5  | ✅     | Next Permutation |
 | 6 | ✅     | Majority Element 2 |
+| 7 | ✅     | Stock Buy and Sell |
 
 
 
