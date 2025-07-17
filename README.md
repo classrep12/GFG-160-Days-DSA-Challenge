@@ -41,7 +41,7 @@ This repository contains my daily solutions to Data Structures and Algorithms pr
 | 5  | ✅     | Next Permutation |
 | 6 | ✅     | Majority Element 2 |
 | 7 | ✅     | Stock Buy and Sell |
-
+| 8 | ✅   | Stock Buy and Sell- AtMost one Transaction|
 
 
 
