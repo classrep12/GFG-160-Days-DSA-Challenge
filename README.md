@@ -42,8 +42,8 @@ This repository contains my daily solutions to Data Structures and Algorithms pr
 | 6 | ✅     | Majority Element 2 |
 | 7 | ✅     | Stock Buy and Sell |
 | 8 | ✅   | Stock Buy and Sell- AtMost one Transaction|
-| 9 | ✅   | Minimize the heights - II 
-|
+| 9 | ✅   | Minimize the heights - II|
+| 10 |✅ | Kadane's Algorithm |
 
 
 
