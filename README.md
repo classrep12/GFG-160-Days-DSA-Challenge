@@ -44,6 +44,7 @@ This repository contains my daily solutions to Data Structures and Algorithms pr
 | 8 | ✅   | Stock Buy and Sell- AtMost one Transaction|
 | 9 | ✅   | Minimize the heights - II|
 | 10 |✅ | Kadane's Algorithm |
+| 11 |✅ | Maximum Product Subarray |
 
 
 
