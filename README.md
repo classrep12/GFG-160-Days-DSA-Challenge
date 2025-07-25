@@ -49,6 +49,7 @@ This repository contains my daily solutions to Data Structures and Algorithms pr
 | 13 |✅ | Smallest Positive Missing|
 | 14 |✅ |Implement Atoi  |
 | 15 |✅ | Add Binary Strings|
+| 16 |✅ | Is Anagram|
 
 
 
